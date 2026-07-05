@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/46254b83-d034-4ef0-984e-4a83fcb402c8" />
 # Projeto de Banco de Dados para Setor de RH (Acadêmico)
 
 ![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)
